@@ -26,7 +26,7 @@
 </a>
 
   <a href="https://github.com/ARYANSemval1911?tab=followers">
-    <img src="https://img.shields.io/github/followers/ARYANSemval1911?style=for-the-badge&color=7dd3fc&labelColor=0f172a&label=FOLLOWERS" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/ARYANSemwal1911?style=for-the-badge&color=7dd3fc&labelColor=0f172a&label=FOLLOWERS" alt="Followers" />
   </a>
 
   <a href="https://github.com/ARYANSemval1911">

@@ -1,12 +1,12 @@
-# Hi, I'm Aryan Semwal 👋
+# Hi, I'm Aryan Semval 👋
 
 ### UI/UX Student · Web Designer
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Aryan%20Semwal&fontAlign=50&fontAlignY=35&desc=UI%2FUX%20Student&descAlign=50&descAlignY=55&animation=twinkling&color=0:7dd3fc,100:38bdf8"
+    src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Aryan%20Semval&fontAlign=50&fontAlignY=35&desc=UI%2FUX%20Student&descAlign=50&descAlignY=55&animation=twinkling&color=0:7dd3fc,100:38bdf8"
     width="100%"
-    alt="Aryan Semwal"
+    alt="Aryan Semval"
   />
 </p>
 
@@ -18,18 +18,18 @@
 </p>
 
 <p align="center">
- <a href="https://github.com/ARYANSEMWAL1911">
+ <a href="https://github.com/ARYANSemval1911">
   <img
     src="https://img.shields.io/badge/PROFILE%20VIEWS-7dd3fc?style=for-the-badge&labelColor=0f172a&logo=github&logoColor=7dd3fc"
     alt="Profile views"
   />
 </a>
 
-  <a href="https://github.com/ARYANSEMWAL1911?tab=followers">
-    <img src="https://img.shields.io/github/followers/ARYANSEMWAL1911?style=for-the-badge&color=7dd3fc&labelColor=0f172a&label=FOLLOWERS" alt="Followers" />
+  <a href="https://github.com/ARYANSemval1911?tab=followers">
+    <img src="https://img.shields.io/github/followers/ARYANSemval1911?style=for-the-badge&color=7dd3fc&labelColor=0f172a&label=FOLLOWERS" alt="Followers" />
   </a>
 
-  <a href="https://github.com/ARYANSEMWAL1911">
+  <a href="https://github.com/ARYANSemval1911">
     <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-YES-7dd3fc?style=for-the-badge&labelColor=0f172a" alt="Open to work" />
   </a>
 </p>
@@ -57,9 +57,9 @@ I'm Aryan, a UI/UX student focused on creating clean interfaces, responsive webs
 An e-commerce website designed for selling clay charms, combining a playful product experience with a clean and engaging shopping interface.
 
 <p align="center">
-  <a href="https://github.com/ARYANSEMWAL1911/Final-Clayhub-charm">
+  <a href="https://github.com/ARYANSemval1911/Final-Clayhub-charm">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=ARYANSEMWAL1911&repo=Final-Clayhub-charm&theme=nord&title_color=7dd3fc&icon_color=7dd3fc&text_color=7dd3fc&border_color=7dd3fc"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=ARYANSemval1911&repo=Final-Clayhub-charm&theme=nord&title_color=7dd3fc&icon_color=7dd3fc&text_color=7dd3fc&border_color=7dd3fc"
       width="100%"
       alt="ClayHub Charm repository"
     />
@@ -76,7 +76,7 @@ An e-commerce website designed for selling clay charms, combining a playful prod
 <p align="center">
   <a href="https://final-clayhub-charm.vercel.app/">Live Demo</a>
   ·
-  <a href="https://github.com/ARYANSEMWAL1911/Final-Clayhub-charm">View Code</a>
+  <a href="https://github.com/ARYANSemval1911/Final-Clayhub-charm">View Code</a>
 </p>
 
 ## Tech Stack
@@ -103,7 +103,7 @@ An e-commerce website designed for selling clay charms, combining a playful prod
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ARYANSEMWAL1911&show_icons=true&theme=nord&title_color=7dd3fc&icon_color=7dd3fc&text_color=7dd3fc&border_color=7dd3fc&hide_border=false"
+    src="https://github-readme-stats.vercel.app/api?username=ARYANSemval1911&show_icons=true&theme=nord&title_color=7dd3fc&icon_color=7dd3fc&text_color=7dd3fc&border_color=7dd3fc&hide_border=false"
     width="100%"
     alt="GitHub statistics"
   />
@@ -111,7 +111,7 @@ An e-commerce website designed for selling clay charms, combining a playful prod
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=ARYANSEMWAL1911&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&sideLabels=7dd3fc&dates=7dd3fc"
+    src="https://streak-stats.demolab.com?user=ARYANSemval1911&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&sideLabels=7dd3fc&dates=7dd3fc"
     width="100%"
     alt="GitHub contribution streak"
   />
@@ -122,14 +122,14 @@ An e-commerce website designed for selling clay charms, combining a playful prod
 <p align="center">
   <a href="https://www.linkedin.com/in/aryan-semval-07275943a/">
     <img
-      src="https://img.shields.io/badge/LinkedIn-Aryan%20Semwal-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=0f172a"
+      src="https://img.shields.io/badge/LinkedIn-Aryan%20Semval-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=0f172a"
       alt="LinkedIn"
     />
   </a>
 
-  <a href="https://github.com/ARYANSEMWAL1911">
+  <a href="https://github.com/ARYANSemval1911">
     <img
-      src="https://img.shields.io/badge/GitHub-ARYANSEMWAL1911-7dd3fc?style=for-the-badge&logo=github&logoColor=0f172a"
+      src="https://img.shields.io/badge/GitHub-ARYANSemval1911-7dd3fc?style=for-the-badge&logo=github&logoColor=0f172a"
       alt="GitHub"
     />
   </a>

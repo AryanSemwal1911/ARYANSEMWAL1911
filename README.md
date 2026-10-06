@@ -18,9 +18,12 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ARYANSEMWAL1911">
-    <img src="https://komarev.com/ghpvc/?username=ARYANSEMWAL1911&style=for-the-badge&color=7dd3fc&label=PROFILE+VIEWS" alt="Profile views" />
-  </a>
+ <a href="https://github.com/ARYANSEMWAL1911">
+  <img
+    src="https://img.shields.io/badge/PROFILE%20VIEWS-7dd3fc?style=for-the-badge&labelColor=0f172a&logo=github&logoColor=7dd3fc"
+    alt="Profile views"
+  />
+</a>
 
   <a href="https://github.com/ARYANSEMWAL1911?tab=followers">
     <img src="https://img.shields.io/github/followers/ARYANSEMWAL1911?style=for-the-badge&color=7dd3fc&labelColor=0f172a&label=FOLLOWERS" alt="Followers" />

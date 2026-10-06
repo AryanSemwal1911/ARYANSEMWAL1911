@@ -18,18 +18,18 @@
 </p>
 
 <p align="center">
- <a href="https://github.com/ARYANSemval1911">
+ <a href="https://github.com/ARYANSemwal1911">
   <img
     src="https://img.shields.io/badge/PROFILE%20VIEWS-7dd3fc?style=for-the-badge&labelColor=0f172a&logo=github&logoColor=7dd3fc"
     alt="Profile views"
   />
 </a>
 
-  <a href="https://github.com/ARYANSemval1911?tab=followers">
+  <a href="https://github.com/ARYANSemwal1911?tab=followers">
     <img src="https://img.shields.io/github/followers/ARYANSemwal1911?style=for-the-badge&color=7dd3fc&labelColor=0f172a&label=FOLLOWERS" alt="Followers" />
   </a>
 
-  <a href="https://github.com/ARYANSemval1911">
+  <a href="https://github.com/ARYANSemwal1911">
     <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-YES-7dd3fc?style=for-the-badge&labelColor=0f172a" alt="Open to work" />
   </a>
 </p>
@@ -57,7 +57,7 @@ I'm Aryan, a UI/UX student focused on creating clean interfaces, responsive webs
 An e-commerce website designed for selling clay charms, combining a playful product experience with a clean and engaging shopping interface.
 
 <p align="center">
-  <a href="https://github.com/ARYANSemval1911/Final-Clayhub-charm">
+  <a href="https://github.com/ARYANSemwal1911/Final-Clayhub-charm">
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=ARYANSemwal1911&repo=Final-Clayhub-charm&theme=nord&title_color=7dd3fc&icon_color=7dd3fc&text_color=7dd3fc&border_color=7dd3fc"
       width="100%"
@@ -76,7 +76,7 @@ An e-commerce website designed for selling clay charms, combining a playful prod
 <p align="center">
   <a href="https://final-clayhub-charm.vercel.app/">Live Demo</a>
   ·
-  <a href="https://github.com/ARYANSemval1911/Final-Clayhub-charm">View Code</a>
+  <a href="https://github.com/ARYANSemwal1911/Final-Clayhub-charm">View Code</a>
 </p>
 
 ## Tech Stack
@@ -103,7 +103,7 @@ An e-commerce website designed for selling clay charms, combining a playful prod
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ARYANSemval1911&show_icons=true&theme=nord&title_color=7dd3fc&icon_color=7dd3fc&text_color=7dd3fc&border_color=7dd3fc&hide_border=false"
+    src="https://github-readme-stats.vercel.app/api?username=ARYANSemwal1911&show_icons=true&theme=nord&title_color=7dd3fc&icon_color=7dd3fc&text_color=7dd3fc&border_color=7dd3fc&hide_border=false"
     width="100%"
     alt="GitHub statistics"
   />
@@ -111,7 +111,7 @@ An e-commerce website designed for selling clay charms, combining a playful prod
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=ARYANSemval1911&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&sideLabels=7dd3fc&dates=7dd3fc"
+    src="https://streak-stats.demolab.com?user=ARYANSemwal1911&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&sideLabels=7dd3fc&dates=7dd3fc"
     width="100%"
     alt="GitHub contribution streak"
   />
@@ -127,9 +127,9 @@ An e-commerce website designed for selling clay charms, combining a playful prod
     />
   </a>
 
-  <a href="https://github.com/ARYANSemval1911">
+  <a href="https://github.com/ARYANSemwal1911">
     <img
-      src="https://img.shields.io/badge/GitHub-ARYANSemval1911-7dd3fc?style=for-the-badge&logo=github&logoColor=0f172a"
+      src="https://img.shields.io/badge/GitHub-ARYANSemwal1911-7dd3fc?style=for-the-badge&logo=github&logoColor=0f172a"
       alt="GitHub"
     />
   </a>

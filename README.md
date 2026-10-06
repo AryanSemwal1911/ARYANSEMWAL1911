@@ -59,7 +59,7 @@ An e-commerce website designed for selling clay charms, combining a playful prod
 <p align="center">
   <a href="https://github.com/ARYANSemval1911/Final-Clayhub-charm">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=ARYANSemval1911&repo=Final-Clayhub-charm&theme=nord&title_color=7dd3fc&icon_color=7dd3fc&text_color=7dd3fc&border_color=7dd3fc"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=ARYANSemwal1911&repo=Final-Clayhub-charm&theme=nord&title_color=7dd3fc&icon_color=7dd3fc&text_color=7dd3fc&border_color=7dd3fc"
       width="100%"
       alt="ClayHub Charm repository"
     />
